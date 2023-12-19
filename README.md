@@ -18,7 +18,7 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">I'm Ghizlane <br><br>- 🔭 I’m working as a Software Engineer ( FullStack Developer)<br>- 📚 I'm currently learning new Technologies such Next.js <br>- ⚡ In my free time I prefer reading books with a cup of coffee ..☕</p>
 
 
 ###
@@ -75,6 +75,3 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/GhizlaneInCode/GhizlaneInCode/output/snake.svg" alt="Snake animation" />
-
-###
