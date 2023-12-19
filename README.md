@@ -5,25 +5,27 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
+  <img src="https://profile-counter.glitch.me/GhizlaneInCode/count.svg?"  />
 </div>
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+###
+
+<h1 align="center">Hey There 👋</h1>
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left">👩‍💻  About Me : </h3>
 
 ###
 
-<p align="left">I'm Ghizlane <br><br>- 🔭 I’m working as a Software Engineer ( FullStack Developer)<br>- 📚 I'm currently learning new Technologies such Next.js <br>- ⚡ In my free time I prefer reading books with a cup of coffee ..☕</p>
+<p align="left"> Hey There I'm Ghizlane 👩🏻<br><br>- 🔭 I’m working as a Software Engineer ( FullStack Developer) 👩🏻‍💻<br>- 📚 I'm currently learning new Technologies such Next.js <br>- ⚡ In my free time I prefer reading books with a cup of coffee ..☕</p>
 
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left">🛠  Languages And Tools : </h3>
 
 ###
 
