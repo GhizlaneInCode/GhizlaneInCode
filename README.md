@@ -12,7 +12,7 @@
 
 ###
 
-<h1 align="center">Hey There 👋</h1>
+<h1 align="center">Hey There I'm Ghizlane  👋</h1>
 
 ###
 
@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left"> Hey There I'm Ghizlane 👩🏻<br><br>- 🔭 I’m working as a Software Engineer ( FullStack Developer) 👩🏻‍💻<br>- 📚 I'm currently learning new Technologies such Next.js <br>- ⚡ In my free time I prefer reading books with a cup of coffee ..☕</p>
+<p align="left"> Hey There I'm Ghizlane, I hold a Master's degree in Computer Science 👩🏻<br><br>- 🔭 I’m working as a Software Engineer ( FullStack Developer) 👩🏻‍💻<br>- 📚 I'm currently learning new Technologies such Next.js <br>- ⚡ In my free time I prefer reading books with a cup of coffee ..☕</p>
 
 
 ###
